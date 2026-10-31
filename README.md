@@ -1,8 +1,8 @@
 # South African Crime Statistics: Comparative Analysis on Serious and Abduction-Related Crimes
 
-![](https://github.com/msizimkhize/-South-African-Crime-Statistics-Comparative-Analysis-Project/blob/main/IMG/SAPS.png?raw=true)
+<!--![](https://github.com/msizimkhize/-South-African-Crime-Statistics-Comparative-Analysis-Project/blob/main/IMG/SAPS.png?raw=true)-->
 
-***
+<!--***-->
 ## Abstract
 This is an evaluation of the latest human trafficking reports, inclusive of all South African provinces, with 'other serious crimes' as the decisive metric, against the major national categoric contributors of crime over the period 2011/2023.
 
